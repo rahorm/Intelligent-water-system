@@ -1,1 +1,3 @@
 # Intelligent-water-system
+
+The main purpose of this system is to provide an Intelligent Automatic water supply based on the humidity level of plants. Product functions include to provide water according to requirement and activate relay motor automatically. Product features will be a real-time sensing which enables total self control. Usage revalidation includes my ability to automatically supply the water to different plants based on individual requirements as well as in the future extend it to a Cloud service to enable user interferance to the settings of pump activation and triggerlevels, as well as to enable visualization of parameters and the temperature of components.
